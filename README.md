@@ -1,4 +1,4 @@
-# High-Performance Cache Management System with Apache Arrow - (Low Level Forest)[https://blog.lowlevelforest.com/]
+# High-Performance Cache Management System with Apache Arrow - https://blog.lowlevelforest.com/
 
 This project implements a high-performance key-value cache system in Go, utilizing **Apache Arrow** for efficient memory handling and supporting large-scale connections. The system supports caching data with a **Time To Live (TTL)** mechanism to automatically expire stale items.
 
